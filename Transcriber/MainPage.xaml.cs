@@ -11,7 +11,14 @@
 
         private async void OnCounterClicked(object sender, EventArgs e)
         {
-            var temp = await SpeechToText.FromStream();
+            try
+            {
+                var temp = await SpeechToText.FromStream();
+            }
+            catch (Exception ex)
+            {
+
+            }
         }
     }
 

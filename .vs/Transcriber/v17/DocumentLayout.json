@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Codes\\Transcriber\\",
+  "WorkspaceRootPath": "D:\\Codes\\Transcr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcriber\\transcriber\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcr\\transcriber\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|solutionrelative:transcriber\\speechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcr\\transcriber\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|solutionrelative:transcriber\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcr\\transcriber\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|solutionrelative:transcriber\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcr\\transcriber\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|solutionrelative:transcriber\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|d:\\codes\\transcr\\transcriber\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD2E248D-1AA5-4E57-A1A2-FD79E257302E}|Transcriber\\Transcriber.csproj|solutionrelative:transcriber\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Codes\\Transcr\\Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Transcriber\\MauiProgram.cs",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\MauiProgram.cs",
+              "RelativeToolTip": "Transcriber\\MauiProgram.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:50:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Transcriber\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Transcriber\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-23T13:44:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "RelativeToolTip": "Transcriber\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-23T13:44:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Transcriber\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\MainPage.xaml.cs",
+              "RelativeToolTip": "Transcriber\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:13:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpeechToText.cs",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\SpeechToText.cs",
+              "RelativeDocumentMoniker": "Transcriber\\SpeechToText.cs",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\SpeechToText.cs",
+              "RelativeToolTip": "Transcriber\\SpeechToText.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:54:23.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\Codes\\Transcriber\\Transcriber\\Platforms\\Android\\MainActivity.cs",
+              "DocumentMoniker": "D:\\Codes\\Transcr\\Transcriber\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "Transcriber\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "D:\\Codes\\Transcriber\\Transcriber\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\Codes\\Transcr\\Transcriber\\Platforms\\Android\\MainActivity.cs",
               "RelativeToolTip": "Transcriber\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAyAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:22:15.654Z",
               "EditorCaption": ""
